@@ -1,7 +1,3 @@
----
---
-nav_exclude: true
----
 # DeFi Ecosystem Report 2025  
 
 ## Executive Summary  
