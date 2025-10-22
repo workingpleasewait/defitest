@@ -45,3 +45,5 @@ Decentralized finance in 2025 is both promising and precarious. Rapid adoption, 
 3. AInvest, “DeFi’s Regulatory Uncertainty: Navigating Risks and Opportunities in a Fragmented Landscape,” Oct 20 2025 ([www.ainvest.com](https://www.ainvest.com/news/defi-regulatory-uncertainty-navigating-risks-opportunities-fragmented-landscape-2510/)).  
 4. Galaxy Research, “The State of Crypto Leverage – Q2 2025,” Aug 14 2025 ([www.galaxy.com](https://www.galaxy.com/insights/research/the-state-of-crypto-leverage-q2-2025)).  
 5. SimpleSwap, “DeFi Report 2024–2025,” Mar 13 2025 ([simpleswap.io](https://simpleswap.io/learn/analytics/other/defi-report-2024-2025)).
+
+> _Note: This report should be periodically updated as new data becomes available._
